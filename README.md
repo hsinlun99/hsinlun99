@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsinlun99&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsinlun99&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsinlun99&layout=donut-vertical&hide=c%23,ShaderLab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hsinlun99/hsinlun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
